@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Circe-Light';
+    src: url('../fonts/Circe/Circe-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Circe-Regular';
+    src: url('../fonts/Circe/Circe-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Plumb-Bold';
+    src: url('../fonts/Plumb/Plumb-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Plumb-Medium';
+    src: url('../fonts/Plumb/Plumb-Medium.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/fontAwesome/fa-brands-400.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/fontAwesome/fa-light-300.woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/fontAwesome/fa-regular-400.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/fontAwesome/fa-duotone-900.woff2');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/fontAwesome/fa-solid-900.woff2');
+    font-weight: 900;
+}
+
+
+.fa {
+    display: inline-block;
+    font-family: 'Font Awesome';
+    font-style: normal;
+}
+

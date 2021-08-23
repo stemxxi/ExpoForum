@@ -1,0 +1,69 @@
+@import 'fonts.css';
+
+/* SETTING START  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root {
+    --Circe-Light: 'Circe-Light';
+    --Circe-Regular: 'Circe-Regular';
+    --Plumb-Bold: 'Plumb-Bold';
+    --Plumb-Medium: 'Plumb-Medium';
+    --Roboto-Bold: 'Roboto-Bold';
+    --Roboto-Medium: 'Roboto-Medium';
+    --Roboto-Regular: 'Roboto-Regular';
+    --Main-Blue: #2378FC;
+    --Main-Green: #30BCC9;
+    --Main-IceCream: #FAF3E3;
+    --Main-Yellow: #FFC41E;
+    --Main-Red: #F6404F;
+    --White: #FFFFFF;
+}
+
+/* SETTING END  */
+
+
+.primary-container{
+    max-width: 1562px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/* HEADER START */
+
+.header__bg{
+    width: 100%;
+}
+
+.header{
+    position: relative;
+}
+
+
+.header__nav{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+.header__content{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+
+
+
+/* HEADER END */
